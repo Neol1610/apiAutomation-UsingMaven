@@ -1,0 +1,9 @@
+com/ttn/allyoApi/Request/Get/Get_v2.class
+com/ttn/allyoApi/MTurkApi/RequestFactory.class
+com/ttn/allyoApi/Test/MTrurkApiTest.class
+com/ttn/allyoApi/Request/Get/Get_v1.class
+com/ttn/allyoApi/Utilities/Reporter.class
+com/ttn/allyoApi/Request/IRequest.class
+com/ttn/allyoApi/Utilities/Keywords.class
+com/ttn/allyoApi/Test/TestBase.class
+com/ttn/allyoApi/Utilities/GlobalVars.class

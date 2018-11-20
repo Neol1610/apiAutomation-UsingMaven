@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="keshav" name="com.ttn.allyoApi.Test.MTrurkApiTest" tests="1" failures="0" timestamp="20 Nov 2018 10:03:03 GMT" time="4.93" errors="0">
+  <testcase name="MTurk_test1" time="4.567" classname="com.ttn.allyoApi.Test.MTrurkApiTest"/>
+</testsuite>
