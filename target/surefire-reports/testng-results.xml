@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4930" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:33:03Z">
+  <suite name="Suite" duration-ms="5049" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="4930" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:33:03Z">
+    <test name="Test" duration-ms="5049" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:19Z">
       <class name="com.ttn.allyoApi.Test.MTrurkApiTest">
-        <test-method status="PASS" signature="beforeSuite()" name="beforeSuite" is-config="true" duration-ms="160" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:32:58Z">
+        <test-method status="PASS" signature="beforeSuite()" name="beforeSuite" is-config="true" duration-ms="118" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:13Z">
         </test-method>
-        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:32:58Z">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:13Z">
         </test-method>
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:32:58Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:13Z">
           <params>
             <param index="0">
               <value>
@@ -20,13 +20,13 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="MTurk_test1()" name="MTurk_test1" duration-ms="4567" started-at="2018-11-20T15:32:58Z" finished-at="2018-11-20T15:33:03Z">
+        <test-method status="PASS" signature="MTurk_test1()" name="MTurk_test1" duration-ms="4746" started-at="2018-11-27T17:02:13Z" finished-at="2018-11-27T17:02:18Z">
         </test-method>
-        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="355" started-at="2018-11-20T15:33:03Z" finished-at="2018-11-20T15:33:03Z">
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="295" started-at="2018-11-27T17:02:18Z" finished-at="2018-11-27T17:02:19Z">
         </test-method>
-        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2018-11-20T15:33:03Z" finished-at="2018-11-20T15:33:03Z">
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2018-11-27T17:02:19Z" finished-at="2018-11-27T17:02:19Z">
         </test-method>
-        <test-method status="PASS" signature="afterSuite()" name="afterSuite" is-config="true" duration-ms="80" started-at="2018-11-20T15:33:03Z" finished-at="2018-11-20T15:33:03Z">
+        <test-method status="PASS" signature="afterSuite()" name="afterSuite" is-config="true" duration-ms="57" started-at="2018-11-27T17:02:19Z" finished-at="2018-11-27T17:02:19Z">
         </test-method>
       </class>
     </test>

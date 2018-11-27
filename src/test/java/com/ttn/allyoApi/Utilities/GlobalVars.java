@@ -4,7 +4,7 @@ package com.ttn.allyoApi.Utilities;
 
 public class GlobalVars {
 	
-	public static String REPORT_FOLDER_ROOT_NAME = "MTurkApi";
+	public static String REPORT_FOLDER_ROOT_NAME = "AllyoApi";
 	public static String REPORT_ROOT_FOLDER;
 	public static final String EXTENT_CONFIG_FILE = "extent-config.xml";
 		
